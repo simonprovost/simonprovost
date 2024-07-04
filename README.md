@@ -100,17 +100,16 @@ me.buy_me_a_coffee()
 Feel free to get in touch with me on these platforms:
 
 <a href="https://linkedin.com/in/simonprovostdev">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" width="140" height="50" />
-</a>
-
-<a href="https://medium.com/@simon-provost">
-    <img src="https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white" width="120" height="50" />
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" width="140" height="auto" />
 </a>
 
 <a href="https://stackoverflow.com/users/9814037">
-    <img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white" width="170" height="50" />
+    <img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white" width="140" height="auto" />
 </a>
 
-<a href="https://twitter.com/SimonProvost_">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white" width="110" height="50" />
+<a href="https://medium.com/@simon-provost">
+    <img src="https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white" width="140" height="auto" />
 </a>
+
+<a href="https://scholar.google.com/citations?user=Lv_LddYAAAAJ&hl=en">
+    <img src="https://img.shields.io/badge/Google Scholar-%234285F4.svg?logo=googlescholar&logoColor=white" width="140" height="auto" />
