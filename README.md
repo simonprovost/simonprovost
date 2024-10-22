@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="bento_banner.png" alt="banner">
+    <img src="bento_incoming_nyu_banner.png" alt="banner">
 </div>
 
 <table>
